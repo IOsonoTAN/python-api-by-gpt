@@ -1,0 +1,9 @@
+POST http://127.0.0.1:5000/user
+Content-Type: application/json
+
+{
+  "username": "iosonotan",
+  "email": "iosonotan@gmail.com",
+  "phone_number": "66854995454",
+  "gender": "Male"
+}
